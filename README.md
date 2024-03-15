@@ -9,4 +9,4 @@
 
 # Поддержать меня (Support me)
 
-[Patreon](patreon.com/ksbot)
+[Patreon](https://patreon.com/ksbot)
