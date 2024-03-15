@@ -10,3 +10,4 @@
 # Поддержать меня (Support me)
 
 [Patreon](https://patreon.com/ksbot)
+[Boosty](https://boosty.to/ks51/donate)
