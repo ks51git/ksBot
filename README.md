@@ -6,3 +6,8 @@
 В релизах вы можете скачать исходники и создать своего бота...
 
 Хост: **daki.cc**
+
+# Поддержать меня (Support me)
+
+[Patreon](patreon.com/ksbot)
+[Buy Me A Coffee](https://www.buymeacoffee.com/ks51)
